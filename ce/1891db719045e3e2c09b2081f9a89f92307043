@@ -1,0 +1,19 @@
+internal/services/pages_project/resource.go
+  s_7d43468e7833c8::t_21a9fa22452a79 103,177,243,453-456,526-550,565,567-571,602,604-608
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ce1891db719045e3e2c09b2081f9a89f92307043",
+  "prompts": {},
+  "sessions": {
+    "s_7d43468e7833c8": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a13186-8512-7750-ae63-aebf6b8bc62e",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Eric Clemmons <eclemmons@cloudflare.com>"
+    }
+  }
+}
